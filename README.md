@@ -12,8 +12,8 @@ This repository will be updated regularly with scripts, utilities, and mini appl
 - Explore python libraries
 - Strengthen logical thinking and scripting habits
 - Understand how to use Python’s built-in standard library efficiently
-- Practice modular programming and clean code habits
-- build the habbit of writting clean and production level code
+- Practice programming and clean code habits
+- build the habbit of writting production level code
 
 ---
 
