@@ -3,7 +3,7 @@
 A collection of small and practical Python projects built to strengthen core programming skills and explore real-world problem solving using Python.  
 This repository will be updated regularly with scripts, utilities, and mini applications covering various use cases.
 
----
+--------------
 
 ## 🧠 Purpose
 
@@ -15,7 +15,7 @@ This repository will be updated regularly with scripts, utilities, and mini appl
 - Practice programming and clean code habits
 - build the habbit of writting production level code
 
----
+--------------
 
 ## 📁 Folder Structure
 
